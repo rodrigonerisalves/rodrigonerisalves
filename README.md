@@ -46,8 +46,7 @@ Possuo um conjunto diversificado de habilidades, incluindo dinamismo para realiz
       <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
       <img align="center" alt="KOTLIN" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
       <img align="center" alt="MSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-      <img align="center" alt="MSQL" src="Https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
-      <img align="center" alt="MSQL" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+        <img align="center" alt="MSQL" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
       <img align="center" alt="MSQL" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />       
 
 </div>
