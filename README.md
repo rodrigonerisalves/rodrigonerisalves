@@ -1,12 +1,16 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/rodrigonerisalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigonerisalves" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/rodrigonerisalves"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<a href="https://linkedin.com/in/rodrigo-neris" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/rodrigonerisoficial" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/rodrigonerisalves" target="blank"><img align="center" src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://api.whatsapp.com/send?phone=5566999778020" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee" /></a>&nbsp;
+<a href="mailto:programadorrodrigonerisalves@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+	
+</p> 
+
+### <img src="img/user.png" width="45" />  Sobre mim:
+Possuo um conjunto diversificado de habilidades, incluindo dinamismo para realizar várias tarefas simultaneamente, uma forte vontade de aprender e me aprimorar constantemente, inteligência emocional para enfrentar os desafios diários, Sou hábil em lidar com cálculos e sistemas informatizados, demonstrando responsabilidade e autonomia no trabalho remoto, bem como uma excelente capacidade de planejamento e organização para cumprir prazos. Minha comunicação eficiente se reflete na interação com a equipe, e tenho um domínio sólido das habilidades em informática, flexível para aprender e adotar novas tecnologias.
 
 ### <img src="img/facu.png" width="45" /> Formação acadêmica:
 - Bacharel em Ciências Contábeis.
@@ -49,30 +53,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigonerisalves&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigonerisalves&theme=dark)](https://git.io/streak-stats)
 
-
 ---
-
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://rodrigonerisalves.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://rodrigonerisalves.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [How to Choose The Right Database for Your Application](https://rodrigonerisalves.tech/how-to-choose-the-right-database-for-your-application)
-- [SOLID Principles in Java](https://rodrigonerisalves.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://rodrigonerisalves.tech/introduction-to-asynchronous-processing-and-message-queues)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://rodrigonerisalves.tech/)
-
----
-
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
----
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
