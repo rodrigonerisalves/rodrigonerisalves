@@ -23,6 +23,7 @@ Possuo um conjunto diversificado de habilidades, incluindo dinamismo para realiz
 
 ### <img src="img/cursos.png" width="45" /> Cursos Complementares:
 - Python Avançado - IFMG
+- Formação Machine Learning Specialist - Dio.me
 - Santander Bootcamp 2023 - Ciência de Dados com Python - Dio.me
 - Fundamentos dados - Google
 - Formação Python Developer - Dio.me
