@@ -25,7 +25,7 @@ Possuo um conjunto diversificado de habilidades, incluindo dinamismo para realiz
 - Python Avançado - IFMG
 - Formação Machine Learning Specialist - Dio.me
 - Santander Bootcamp 2023 - Ciência de Dados com Python - Dio.me
-- Backend com Kotlin e Java - 
+- Backend com Kotlin e Java - Dio.me
 - Fundamentos dados - Google - Dio.me
 - Formação Python Developer - Dio.me
 - Geração Tech Fullstack - Dio.me
